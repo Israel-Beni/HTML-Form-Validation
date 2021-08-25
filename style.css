@@ -21,7 +21,7 @@ p > label {
 
 input[type="text"],
 input[type="email"],
-inut[type="number"],
+input[type="number"],
 textarea,
 fieldset {
     width: 100%;
